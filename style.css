@@ -1,6 +1,16 @@
-body{ background-color:rgb(238, 230, 198);
+body
+{ 
+    background-color:rgb(238, 230, 198);
 
-}    
-p{
+}   
+
+p
+{
     color:rgb(77, 35, 11); font-weight: 1000;
-    }
+}
+
+div
+{
+max-width: 600px;
+
+}

@@ -1,12 +1,12 @@
 body
 { 
-    background-color:rgb(77, 35, 11);
+    background-color:rgba(255, 180, 136, 0.678);
 
 }   
 
 p
 {
-    color:rgb(77, 35, 11); font-weight: 1000;
+    color:rgba(95, 40, 8, 0.678);
 }
 
 div
